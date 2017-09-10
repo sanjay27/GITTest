@@ -2,4 +2,8 @@ Test File Github1
 Test File Github1
 Test File Github1
 Test File Github1
+<<<<<<< HEAD
 Test File Github Changed by 2
+=======
+Test File Github1  Change by 1
+>>>>>>> 09fcf5cdce65fb63b114e7ad91883bf57e6efe15
